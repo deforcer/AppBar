@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppBar</string>
+    <string name="openwriter">Отркыть записную книжку</string>
+    <string name="Save">Сохранить</string>
+    <string name="data_saved">данные сохранены</string>
+    <string name="menu_writer">Записная книжка</string>
+    <string name="menu_settings">Settings</string>
+</resources>
